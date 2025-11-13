@@ -111,12 +111,12 @@ streamlit run ai-companion.py
 
 **Author:**
 
-* Wasif Mehboob
+* Abdulmoiz
 
 **Contributors:**
 
 * Ahsan Waseem
-* Abdul Moiz
+* Wasif Mehboob
 * Ameer Hamza
 
 ---
